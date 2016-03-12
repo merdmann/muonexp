@@ -7,3 +7,9 @@
 [submodule "muon-fe"]
 	path = muon-fe
 	url = https://github.com/merdmann/muon-fe.git
+[submodule "muon-client"]
+	path = muon-client
+	url = https://github.com/merdmann/muon-client.git
+[submodule "muon-db"]
+	path = muon-db
+	url = https://github.com/merdmann/muon-db.git
