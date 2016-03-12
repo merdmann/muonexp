@@ -4,3 +4,6 @@
 [submodule "muon-be"]
 	path = muon-be
 	url = https://github.com/merdmann/muon-be.git
+[submodule "muon-fe"]
+	path = muon-fe
+	url = https://github.com/merdmann/muon-fe.git
